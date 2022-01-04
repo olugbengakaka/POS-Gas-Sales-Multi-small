@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POS-Gas-Sales-Multi-small", "POS-Eatery\POS-Gas-Sales-Multi-small.csproj", "{7A91A240-8AD8-43F7-A3A4-6ADB21462BD0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EHR LPG Solution", "Hephzibah Gas Solution\Hephzibah Gas Solution.vdproj", "{3FDA3672-66D7-4DB3-838D-F9C6DAA79E5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A91A240-8AD8-43F7-A3A4-6ADB21462BD0}.Debug|x86.ActiveCfg = Debug|x86
+		{7A91A240-8AD8-43F7-A3A4-6ADB21462BD0}.Debug|x86.Build.0 = Debug|x86
+		{7A91A240-8AD8-43F7-A3A4-6ADB21462BD0}.Release|x86.ActiveCfg = Release|x86
+		{7A91A240-8AD8-43F7-A3A4-6ADB21462BD0}.Release|x86.Build.0 = Release|x86
+		{3FDA3672-66D7-4DB3-838D-F9C6DAA79E5E}.Debug|x86.ActiveCfg = Debug
+		{3FDA3672-66D7-4DB3-838D-F9C6DAA79E5E}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CEA5B58-D006-4EEA-9491-CC7E9B868070}
+	EndGlobalSection
+EndGlobal
